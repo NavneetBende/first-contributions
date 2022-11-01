@@ -4674,4 +4674,4 @@ first contributions - hanyang univ.
 - [Rohan Patil] (this is my first contribution)
 - [Janardhan](https://github.com/janardhankakuri)
 - [Moses Li](https://github.com/JAGDF)
-- [Navneet Bende](https://github.com/NavneetBende0
+- [Navneet Bende](https://github.com/NavneetBende)
